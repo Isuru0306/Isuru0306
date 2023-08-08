@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Isuru</h1>
-<h3 align="center">Associate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isuru0306&label=Profile%20views&color=0e75b6&style=flat" alt="isuru0306" /> </p>
 
