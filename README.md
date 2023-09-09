@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isuru0306" alt="isuru0306" /></a> </p>
 
-- 🔭 I’m currently working on [IoT base home automation system](https://github.com/Isuru0306/IT2019047.git)
+- 🔭 I’m currently working on [Patient Management System]([https://github.com/Isuru0306/IT2019047.git](https://github.com/Isuru0306/HealthCarePlus))
 
 - 🌱 I’m currently learning **Laravel, Node js, Vue js, Docker,jsonata**
 
