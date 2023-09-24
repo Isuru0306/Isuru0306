@@ -50,12 +50,6 @@
       alt="LinkedIn"
     />
   </a>
-  <a href="https://stackoverflow.com/users/isuru-b-gunathunga">
-    <img
-      src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"
-      alt="Stack Overflow"
-    />
-  </a>
   <a href="https://www.hackerrank.com/isuru_bandara031">
     <img
       src="https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=white"
