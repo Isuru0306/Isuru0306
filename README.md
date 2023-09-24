@@ -1,8 +1,7 @@
-<h1 align="center">Isuru B Gunathunga</h1>
+<h1 align="center" style="color: #0D6281;">Isuru B Gunathunga</h1>
+
 <h3 align="center">
-  I am a passionate full-stack developer based in Sri Lanka. I love turning
-  ideas into code and building meaningful projects that solve real-world
-  problems.
+  I am a passionate full-stack developer based in Sri Lanka.
 </h3>
 
 <h1 align="center">💻 Tech Stack:</h1>
