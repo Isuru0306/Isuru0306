@@ -1,8 +1,5 @@
 <h1 align="center" style="color: #0D6281;">Isuru B Gunathunga</h1>
 
-<h3 align="center">
-  I am a passionate full-stack developer based in Sri Lanka.
-</h3>
 
 <h1 align="center">💻 Tech Stack:</h1>
 <div align="center">
